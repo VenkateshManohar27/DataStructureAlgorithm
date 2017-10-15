@@ -1,4 +1,4 @@
-package com.vm.coursera.assignment1;
+package com.vm.coursera.assignment1.percolation;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

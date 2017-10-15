@@ -1,4 +1,4 @@
-package com.vm.coursera.assignment1;
+package com.vm.coursera.assignment1.percolation;
 /******************************************************************************
  *  Compilation:  javac InteractivePercolationVisualizer.java
  *  Execution:    java InteractivePercolationVisualizer n

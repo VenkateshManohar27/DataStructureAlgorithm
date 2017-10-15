@@ -1,4 +1,4 @@
-package com.vm.coursera.assignment1;
+package com.vm.coursera.assignment1.percolation;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 /**
